@@ -1,0 +1,6 @@
+*.pdf
+*.wav
+*.mp3
+*.exe
+*.zip
+ffmpeg/
